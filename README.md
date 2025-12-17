@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxsch&label=Profile%20views&color=0e75b6&style=flat" alt="rxsch" /> </p>
 
-- 🔭 I’m currently working on **Alarm App**
+- 🔭 I’m currently working on **an App**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C, Java, Html and Css.**
 
